@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FACTORY_PRESETS version="1">
+  <PRESET name="Vocal Suave" gain="3.0" peakReduction="0.23" mode="0" meter="0" theme="0"/>
+  <PRESET name="Vocal Radial" gain="5.0" peakReduction="0.40" mode="0" meter="0" theme="0"/>
+  <PRESET name="Bajo Eléctrico" gain="2.0" peakReduction="0.34" mode="0" meter="0" theme="0"/>
+  <PRESET name="Bus de Batería" gain="1.5" peakReduction="0.28" mode="0" meter="0" theme="1"/>
+  <PRESET name="Máster Sutil" gain="0.8" peakReduction="0.15" mode="0" meter="0" theme="0"/>
+  <PRESET name="Limitador de Picos" gain="1.0" peakReduction="0.58" mode="1" meter="0" theme="0"/>
+  <PRESET name="Guitarra Acústica" gain="2.5" peakReduction="0.26" mode="0" meter="0" theme="1"/>
+  <PRESET name="Voz Hablada / Podcast" gain="4.5" peakReduction="0.46" mode="0" meter="0" theme="0"/>
+  <PRESET name="Compresión Paralela" gain="5.0" peakReduction="0.78" mode="1" meter="0" theme="2"/>
+  <PRESET name="Calidez Vintage" gain="2.0" peakReduction="0.38" mode="0" meter="0" theme="3"/>
+  <PRESET name="Bus de Sintetizadores" gain="1.0" peakReduction="0.31" mode="0" meter="0" theme="2"/>
+  <PRESET name="Todo Terreno" gain="2.0" peakReduction="0.30" mode="0" meter="0" theme="0"/>
+</FACTORY_PRESETS>
